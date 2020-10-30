@@ -1,0 +1,22 @@
+h1{
+    color: #ff5700;
+    text-align: center;
+    background-color: lightslategray;
+}
+h3{
+    text-align: center;
+    background-color: aquamarine;
+    color: darkslateblue
+}
+h4{
+    text-align: left;
+    color: darksalmon;
+    background-color: floralwhite;
+}
+p{
+    color: brown;
+}
+body{
+    background-image: url(../images/f5e4f367.png);
+    background-attachment:fixed;
+}

@@ -1,0 +1,21 @@
+h1 { 
+    color: aqua;
+    text-align: center;
+    background-color: darkorange;
+}
+h3 {
+    color: silver;
+    text-align: center;
+    background-color: cornflowerblue;
+}
+table{
+    background-color: cornsilk;
+}
+
+body{
+    background-image: url(../images/f5e4f367.png);
+    background-attachment:fixed;
+}
+ol{
+    background-image: url(../images/original.jpg);
+}

@@ -1,0 +1,26 @@
+h1.redcolor{
+    color: red;
+    background-color: darkorange;
+}
+h1.a{
+    color: aquamarine;
+    background-color: aliceblue;
+}
+h3.a3{
+    color: darkblue;
+    background-color: aqua;
+}
+h3.a2{
+    color: aquamarine;
+    background-color: darkgreen;
+}
+h1{
+    text-align: center;
+}
+h3 {
+    text-align: center;
+}
+body{
+    background-image: url(../images/white_00050.jpg);
+    background-attachment:fixed;
+}
